@@ -7,5 +7,4 @@ while (index >= 0):
     index += 1
     string = string[index:]
     index = string.find(sub_string)
-
 print(count)
